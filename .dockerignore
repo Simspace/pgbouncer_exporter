@@ -1,0 +1,6 @@
+.circleci/
+.github/
+*.md
+.gitignore
+docker-compose.yml
+pgbouncer.ini
